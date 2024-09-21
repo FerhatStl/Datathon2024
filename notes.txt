@@ -1,0 +1,26 @@
+1. Create a new age column from data.
+    Fix redundant data, fix typo, define a default for nan values.
+    
+2. Analyze data by every column seek any favoritizm towards a gender or higher quality school.
+3. Trim Null/NaN data with mean,median or average.
+4. Examine examples that exist in Kaggle.
+
+1. Importing Libraries
+2. Manipulating Data for Easier Analysis
+3. Visual Analysis of Data (to distinguish important data)
+    a. Visualization by gender
+    b. Visualization By age
+    c. Visualization by application year
+    d. Visualization by High School
+        d1. By High School Name(Quality)
+        d2. By Diploma Point
+    e. Visualization by University
+        e1. University Name(Quality)
+        e2. GPA
+        e3. Burs
+
+    f. *TODO*
+        
+4. Preparing for Training
+5. Training
+6. Estimation
